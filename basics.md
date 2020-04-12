@@ -79,5 +79,9 @@
 - tuple = {1, 2, 3, "Texto"}
 - elem(tuple, 1)
 
+# Imutable
 
-
+- list = [1, 2, 3, 4]
+- List.delete_at(list, -1)
+- list ++ [1]
+- IO.inspect list
