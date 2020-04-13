@@ -2,7 +2,7 @@
 
 ## Udemy
 
--https://www.udemy.com/course/programacao-funcional-com-elixir/
+- https://www.udemy.com/course/programacao-funcional-com-elixir/
 
 ### Seção 1
 
